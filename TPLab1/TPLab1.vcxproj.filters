@@ -20,19 +20,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Base.h">
+    <ClInclude Include="Keeper.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Bird.h">
+    <ClInclude Include="Fish.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Cat.h">
+    <ClInclude Include="Cat.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Fish.h">
+    <ClInclude Include="Bird.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Keeper.h">
+    <ClInclude Include="Base.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

@@ -179,11 +179,11 @@
     <ClCompile Include="TPLab1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Base.h" />
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Bird.h" />
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Cat.h" />
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Fish.h" />
-    <ClInclude Include="..\..\..\..\..\..\TPR_Lab1-main\include\Keeper.h" />
+    <ClInclude Include="Base.h" />
+    <ClInclude Include="Bird.h" />
+    <ClInclude Include="Cat.h" />
+    <ClInclude Include="Fish.h" />
+    <ClInclude Include="Keeper.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
