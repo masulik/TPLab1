@@ -176,7 +176,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="TPLab1.cpp" />
+    <ClCompile Include="Bird.cpp" />
+    <ClCompile Include="Cat.cpp" />
+    <ClCompile Include="Fish.cpp" />
+    <ClCompile Include="Keeper.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Base.h" />
